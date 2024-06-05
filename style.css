@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: orangered;
+    color:white;
+}
+
+.a{
+   align-items:center;
+}
+a{
+    text-decoration: none;
+    color:orangered;
+    background-color: white;
+    border:3px solid white;
+    margin:15px;
+    padding:7px;
+}
